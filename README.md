@@ -1,44 +1,48 @@
-# 👋 Hi, I'm Temiloluwa
+# 👋 Hi, I'm Temiloluwa (aka direxxi)
 
 I'm a passionate frontend developer focused on building modern, responsive websites and mobile apps.
 
-💻 **What I Do**
-- Design and develop clean, functional **websites** using **HTML, CSS, and JavaScript**
-- Build cross-platform **mobile apps** with **Flutter (Dart)**
-- Always improving my UI/UX skills to deliver intuitive and beautiful interfaces
+---
 
-🚀 **Tech Stack**
+## 💻 What I Do
+
+- Design and develop clean, functional websites using **HTML, CSS, and JavaScript**
+- Build cross-platform mobile apps with **Flutter (Dart)**
+- Continuously improving my **UI/UX skills** to deliver intuitive and beautiful interfaces
+
+---
+
+## 🚀 Tech Stack
+
 - 🌐 Web: HTML, CSS, JavaScript
 - 📱 Mobile: Dart + Flutter
 - 🛠 Tools: VSCode, Git, Figma, Chrome DevTools
 
-🧩 **Projects**
-- 📦 **Inventory System** – A simple web-based factory inventory system built with HTML/CSS/JS/PHP
-- 🎟 **EventApp** – Event ticketing web app with basic seat tracking and QR logic
-- 🥘 **Meal Planner** – Early concept app for managing daily meal ideas
-*(More in progress...)*
+---
 
-🌱 **Currently Learning**
+## 🧩 Featured Projects
+
+- 📘 [Lecturify](https://github.com/direxxi/Lecturify) – A tutor and book discovery platform built with clean HTML/CSS/JS
+- 🍽️ [BuRestaurant](https://github.com/direxxi/burestaurant.github.io) – A stylish restaurant website showcasing meals and sections
+- 🌐 [Portfolio Website](https://github.com/direxxi/portfolio2) – My personal portfolio built to highlight my skills and projects
+- and others
+
+> More projects in progress...
+
+---
+
+## 🌱 Currently Learning
+
 - Deepening my JavaScript knowledge
-- Improving in Flutter animations and app architecture
+- Improving in Flutter animations and architecture
 
-📫 **Reach Me**
-- Email: temmyboi42@gmail.com
-- GitHub: [github.com/direxxi](https://github.com/direxxi)
+---
+
+## 📫 Reach Me
+
+- 📩 Email: **temmyboi42@gmail.com**
+- 🔗 GitHub: [github.com/direxxi](https://github.com/direxxi)
+
+---
 
 > “I build to learn, and I learn to build.”
-
-<!--
-**direxxi/direxxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
